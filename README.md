@@ -29,3 +29,14 @@ Start time: 6:00pm
 Finish time: 7:15pm
 
 Actual time needed to complete: 1hr 15min
+
+
+#### Feature: Modify contents
+
+Estimate of time needed to complete: 1hour
+
+Start time: 7:15pm
+
+Finish time: 8:00pm
+
+Actual time needed to complete: 45min
