@@ -19,7 +19,6 @@ Other:
   Responsive Tools (github.com/ajlkn/responsive-tools)
 
 
-
 #### Feature: Fefactor CSS
 
 Estimate of time needed to complete: 1hour
@@ -40,3 +39,4 @@ Start time: 7:15pm
 Finish time: 8:00pm
 
 Actual time needed to complete: 45min
+
