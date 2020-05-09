@@ -17,3 +17,15 @@ Icons:
 Other:
   jQuery (jquery.com)
   Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+
+#### Feature: Fefactor CSS
+
+Estimate of time needed to complete: 1hour
+
+Start time: 6:00pm
+
+Finish time: 7:15pm
+
+Actual time needed to complete: 1hr 15min
