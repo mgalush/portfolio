@@ -191,7 +191,7 @@ table {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #3BA8D3;
+			background-color: #2d8a8a;
 			top: 1px;
 		}
 
@@ -523,7 +523,7 @@ table {
 /* Nav */
 
 	#nav {
-		background-color: #282828;
+		background-color: #7ff5f5;
 		text-align: center;
 		position: fixed;
 		left: 0;
@@ -566,7 +566,7 @@ table {
 
 			#nav a:hover {
 				color: #fff !important;
-				background: #383838;
+				background: #2d8a8a;
 			}
 
 			#nav a.active {

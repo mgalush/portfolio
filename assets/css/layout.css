@@ -1319,7 +1319,7 @@
 		}
 
 			#top .image img {
-				border-radius: 100%;
+        border-radius: 100%;
 			}
 
 		#top h1 {
@@ -1327,8 +1327,8 @@
 		}
 
 		#top p {
-			font-size: 1.5em;
-			line-height: 1.75em;
+			font-size: 1.2em;
+			line-height: 1.5em;
 		}
 
 			#top p a {
